@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-    const int current_year = 2025200;
+    const int current_year = 2025;
     int year_born;
     cout<< "Enter your birth year: ";
     cin >> year_born;
